@@ -1,8 +1,6 @@
-# React + Vite
+# Job Portal Module Recap Project
+### with ##Programmming Hero
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Actually, I haven't coded in a long time; so, as a recap, I'm brushing up on my skills by practicing the job portal web module from Programming Hero. That's all for now."
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Live Link: i will added for complated this project
